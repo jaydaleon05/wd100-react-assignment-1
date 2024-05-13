@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wd100-react-assignment-1/static/css/main.ff02f4b5.css",
+    "main.js": "/wd100-react-assignment-1/static/js/main.54bdb0a5.js",
+    "static/js/453.2260c089.chunk.js": "/wd100-react-assignment-1/static/js/453.2260c089.chunk.js",
+    "static/media/Vegetable pizza.jpg": "/wd100-react-assignment-1/static/media/Vegetable pizza.8cfe83f9f300534016c0.jpg",
+    "static/media/Margherita Pizza.jpg": "/wd100-react-assignment-1/static/media/Margherita Pizza.e7dedb9032a24941feed.jpg",
+    "static/media/Amatriciana Pizza.jpg": "/wd100-react-assignment-1/static/media/Amatriciana Pizza.e465ffde5fe880bfaf4e.jpg",
+    "static/media/Shrimp Pizza.jpg": "/wd100-react-assignment-1/static/media/Shrimp Pizza.25b02bec118b162b0849.jpg",
+    "static/media/Pepperoni Pizza.jpg": "/wd100-react-assignment-1/static/media/Pepperoni Pizza.f92ef6fc2e1ad6505a9c.jpg",
+    "static/media/Meat Lover.jpg": "/wd100-react-assignment-1/static/media/Meat Lover.d1154a235cbccf4ed5af.jpg",
+    "static/media/Pizza Banner.jpg": "/wd100-react-assignment-1/static/media/Pizza Banner.d13e93e986ecf101b5f1.jpg",
+    "index.html": "/wd100-react-assignment-1/index.html",
+    "main.ff02f4b5.css.map": "/wd100-react-assignment-1/static/css/main.ff02f4b5.css.map",
+    "main.54bdb0a5.js.map": "/wd100-react-assignment-1/static/js/main.54bdb0a5.js.map",
+    "453.2260c089.chunk.js.map": "/wd100-react-assignment-1/static/js/453.2260c089.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.54bdb0a5.js"
+  ]
+}
